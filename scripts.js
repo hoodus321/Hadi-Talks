@@ -1,14 +1,14 @@
 document.addEventListener("DOMContentLoaded", () => {
     const blogPosts = [
         {
-            title: "Welcome to My Blog",
-            date: "August 29, 2024",
-            content: "This is the first post on my new blog! Stay tuned for more updates."
-        },
-        {
             title: "Another Post",
-            date: "September 5, 2024",
-            content: "Here’s another interesting post about something exciting!"
+            date: "August 29, 2024",
+            content: "Chatgpt rules"
+        },               
+        {
+            title: "This is my blog",
+            date: "August 29, 2024",
+            content: "This is both an exercise in web dev and also in writing for myself!"
         }
     ];
 
